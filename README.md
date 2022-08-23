@@ -1,4 +1,4 @@
-# 인프런 Vue.js with Typescript 강의
+# Vue.js with Typescript
 
 ## 개발 환경 구성
 
